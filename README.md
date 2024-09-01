@@ -35,13 +35,21 @@ First task is to visualise an earthquake dataset. Complete the following steps:
 
 
 2. Import and visualise the data by doing the following:
+
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/0ab2488e-4420-41a6-a914-eef1ede047bb">
+
+   
    - Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
       - Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by colour. Earthquakes with higher magnitudes should 
         appear larger, and earthquakes with greater depth should appear darker in colour.
       - Hint: The depth of the earth can be found as the third coordinate for each earthquake.
    - Include popups that provide additional information about the earthquake when its associated marker is clicked.
+
+<img width="618" alt="image" src="https://github.com/user-attachments/assets/d57be271-e5aa-4704-8c07-ebed0b92f5ae">
+
    - Create a legend that will provide context for your map data.
-   - Your visualisation should look something like the preceding map.
-  
-   - - Visualization
-Link to deployed GitHub page: 
+
+     <img width="118" alt="image" src="https://github.com/user-attachments/assets/4f5f20ee-1406-43b5-bd77-5968e8ea570e">
+
+
+# Link to deployed GitHub page: 

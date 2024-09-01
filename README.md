@@ -42,3 +42,6 @@ First task is to visualise an earthquake dataset. Complete the following steps:
    - Include popups that provide additional information about the earthquake when its associated marker is clicked.
    - Create a legend that will provide context for your map data.
    - Your visualisation should look something like the preceding map.
+  
+   - - Visualization
+Link to deployed GitHub page: 

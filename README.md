@@ -52,4 +52,5 @@ First task is to visualise an earthquake dataset. Complete the following steps:
 
      <img width="118" alt="image" src="https://github.com/user-attachments/assets/4f5f20ee-1406-43b5-bd77-5968e8ea570e">
 
-
+Link to deployed GitHub page:
+  https://evgeniiakei.github.io/leaflet-Part-1/

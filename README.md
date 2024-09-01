@@ -32,6 +32,7 @@ First task is to visualise an earthquake dataset. Complete the following steps:
      
    - When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualisation. The following image is a sampling of earthquake data in JSON format:
 
+<img width="615" alt="image" src="https://github.com/user-attachments/assets/c20e4c9c-f074-4fdc-b1a2-ff3047eb115d">
 
 
 2. Import and visualise the data by doing the following:
@@ -52,5 +53,3 @@ First task is to visualise an earthquake dataset. Complete the following steps:
      <img width="118" alt="image" src="https://github.com/user-attachments/assets/4f5f20ee-1406-43b5-bd77-5968e8ea570e">
 
 
-# Link to deployed GitHub page: 
-   https://evgeniiakei.github.io/leaflet-challenge/

@@ -53,3 +53,4 @@ First task is to visualise an earthquake dataset. Complete the following steps:
 
 
 # Link to deployed GitHub page: 
+        https://evgeniiakei.github.io/leaflet-challenge/
